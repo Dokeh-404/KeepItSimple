@@ -21,12 +21,17 @@
 
 ## Caracteristicas
 
+* Responsivo (X)
+* 
+
 ## Diagrama de Flujo
 
 ## Estructura del Proyecto
 
 ```
 KeepItSimple/
+|└──templates                   # Templates HTML
+|   └──index.html               # Página Principal
 |└── app.py                     # App de Flask
 |└── README.md                  # README
 |└── LICENSE                    # Licencia
